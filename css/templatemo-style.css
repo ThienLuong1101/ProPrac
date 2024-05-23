@@ -369,7 +369,9 @@ header {
 .Modern-Slider .slick-dots {
   opacity: 0;
 }
-
+.NextArrow {
+  display: none;
+}
 .Modern-Slider .NextArrow{
   outline: none;
   display: none;
