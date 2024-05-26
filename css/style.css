@@ -12,9 +12,7 @@ a {
 
 
 
-#htit {
-  font-size: 20px;
-}
+
 /* INTRO SECTION
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -38,8 +36,11 @@ h1 {
 /* TIMELINE
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+#htit {
+  font-size: 20px;
+}
 .timeline ul {
-  background: #2d9898;
+  background: #b8d4d4;
   ;
   padding: 50px 0;
 }
